@@ -1,0 +1,29 @@
+Last updated: June 4, 2025
+
+At Deenify, your privacy is very important to us. This Privacy Policy explains how we handle your information when you use our app.
+1. Information We Collect
+
+Deenify does not collect any personal information from you. We respect your privacy and do not track or store any personal data such as your name, email, contacts, or usage habits.
+2. Location Services
+
+The only time Deenify accesses your device’s location is when you choose to use the Qibla direction feature. This allows the app to accurately point you toward the Qibla based on your current location.
+
+    Location access is optional and only used during this feature.
+
+    Your location data is not stored or shared with any third parties.
+
+    You can always choose to deny location permission if you prefer.
+
+3. Third-Party Services
+
+Deenify does not integrate or share data with any third-party analytics or advertising services.
+4. Security
+
+We take reasonable measures to protect the app and your device but remember that no method of transmission over the internet or electronic storage is 100% secure.
+5. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted here with an updated “Last updated” date.
+6. Contact Us
+
+If you have any questions or concerns about your privacy or this policy, please feel free to contact us at:
+[awesome.mail786@gmail.com]
